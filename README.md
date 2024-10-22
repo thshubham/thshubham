@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me heymyselfshubham@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: will not sleep untill my code works
+- ⚡ Fun fact: You will not read till this 😛 hahahaha!
 
 <!---
 thshubham/thshubham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

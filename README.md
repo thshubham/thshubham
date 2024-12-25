@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham
 - 👀 I’m interested in novels, coding and music
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Flutter and Rust
 - 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me heymyselfshubham@gmail.com
 - 😄 Pronouns: He/him
